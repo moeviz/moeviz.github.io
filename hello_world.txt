@@ -1,0 +1,8 @@
+Hello World
+===========
+
+Everything we do teaches us a lesson. Every ovservation from our environment raises questions. If you are curious enough you will search for answers. There will be failure along the way but you will learn from all your failures. You should practice to not fear your mistakes and not let your failures bring you down. Be like children, they are never afraid to experiment or fail. From failure you learn -- from success, not much! Live like a scientist who enjoys exploring, experimentation and answering questions. Finding the answers will give you undescribable satisfaction. Don't be driven by money, it will come anyway.
+
+My name is Mohamed Sami, and I will be sharing daily experiences about my life as a scientist
+
+<img alt="Forever alone" src="images/hello_world/Forever_Alone.png" >
